@@ -4,3 +4,5 @@ fastapi
 google-api-python-client
 uvicorn
 dotenv
+python-dateutil 
+pytz
